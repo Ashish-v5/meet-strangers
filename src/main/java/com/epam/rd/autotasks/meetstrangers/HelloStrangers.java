@@ -19,7 +19,7 @@ public class HelloStrangers {
         // reader.readLine();
         for(int i=1;i<=n;i++){
             String str=reader.readLine();
-            System.out.println("Hello "+str);
+            System.out.println("Hello, "+str);
         }
         reader.close();
     }
